@@ -76,4 +76,4 @@ src/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Project Link: [https://github.com/kavya-coder-hub/erp-system](https://github.com/kavya-coder-hub/erp-system)
+Project Link: https://github.com/kavya-coder-hub/eRP_System_Software.git
